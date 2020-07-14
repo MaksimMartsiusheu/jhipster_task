@@ -1,0 +1,9 @@
+[submodule "JCategory"]
+	path = JCategory
+	url = https://github.com/MaksimMartsiusheu/JCategory
+[submodule "JProduct"]
+	path = JProduct
+	url = https://github.com/MaksimMartsiusheu/JProduct
+[submodule "JGateway"]
+	path = JGateway
+	url = https://github.com/MaksimMartsiusheu/JGateway
